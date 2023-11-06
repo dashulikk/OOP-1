@@ -1,0 +1,44 @@
+<periodicals>
+    <booklet>
+        <id>d</id>
+        <isMulticolor>true</isMulticolor>
+        <size>6</size>
+        <title>Дендрологічний парк Софіївка</title>
+        <isMonthly>false</isMonthly>
+    </booklet>
+    <booklet>
+        <id>e</id>
+        <isMulticolor>true</isMulticolor>
+        <size>7</size>
+        <title>Київ</title>
+        <isMonthly>false</isMonthly>
+    </booklet>
+    <newspaper>
+        <id>a</id>
+        <isMulticolor>true</isMulticolor>
+        <size>8</size>
+        <title>Трибуна праці</title>
+        <isDaily>false</isDaily>
+    </newspaper>
+    <newspaper>
+        <id>b</id>
+        <isMulticolor>false</isMulticolor>
+        <size>16</size>
+        <title>Сільські вісті</title>
+        <isDaily>true</isDaily>
+    </newspaper>
+    <journal>
+        <id>c</id>
+        <isMulticolor>true</isMulticolor>
+        <size>24</size>
+        <title>Forbes</title>
+        <isMonthly>false</isMonthly>
+    </journal>
+    <journal>
+        <id>f</id>
+        <isMulticolor>true</isMulticolor>
+        <size>32</size>
+        <title>БУЛЬВАР Гордона</title>
+        <isMonthly>true</isMonthly>
+    </journal>
+</periodicals>
